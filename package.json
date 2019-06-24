@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "My goal here is to create a properly working website redirect/autocheckout in order to purchase highly sought after items easier. Growing up I have always had interest in Sneakers and Clothing that was very hard to get unless you owned a \"bot\" and with some going for more than $150 I did my best to purchase the old fashioned way which produced rare success.",
+  "main": "atc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreflint97/bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreflint97/bot/issues"
+  },
+  "homepage": "https://github.com/andreflint97/bot#readme"
+}
